@@ -1,1 +1,2 @@
-
+config
+  info： “this is the config file content and your test is successful ”
